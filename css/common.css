@@ -1,0 +1,62 @@
+/*Header*/
+.nav-header {
+	width: 50%;
+	margin: auto;
+}
+.nav-header ul {
+	list-style-type: none;
+	display: flex;
+	justify-content: space-between;
+
+}
+.nav-header li {
+	float: left;
+}
+button {
+	color: white;
+	background-color: #192951;
+	border-style: none;
+	padding: 2% 5%;
+	border-radius: 3%;
+	letter-spacing: 1px;
+}
+* a {
+	text-decoration: none;
+	color: white;
+}
+/*Contactanos*/
+.contactanos {
+	background-image: url(../img/shoes_1.jpg);
+	background-size: 50%;
+	background-position: top right;
+	background-repeat: no-repeat;
+}
+.contactanos h1 {
+	margin-bottom: 5%;
+}
+.contactanos input {
+	width: 100%;
+	padding: 10px;
+	margin: 5px;
+}
+.contactanos form input:last-child {
+	color: white;
+	background-color: #192951;
+	border-style: none;
+	padding: 5%;
+	border-radius: 3%;
+	letter-spacing: 1px;
+	margin-top: 10px;
+	font-size: 18px;
+}
+/*Footer*/
+footer {
+	background-color: #192951;
+	padding: 30px 30px 10px 20px;
+}
+/*Quote*/
+.quote {
+	font-size: 35px;
+	font-weight: bold;
+	padding: 5% 15%;
+}

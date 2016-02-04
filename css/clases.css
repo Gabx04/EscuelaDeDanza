@@ -1,0 +1,42 @@
+.clases .row {
+
+}
+.clases .col-4 {
+	margin: 10px;
+	height: 400px;
+	text-align: center;
+	width: 30%;
+}
+.clases p {
+	margin: 10px 0;
+	font-size: 14px;
+}
+.curso {
+	width: 90%;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	background-color: black;
+	opacity: 0.5;
+	margin-top: 150px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.b {
+	background-image: url(../img/dance_12.jpg);
+}
+.dm {
+	background-image: url(../img/breakdance.jpg);
+}
+.jl {
+	background-image: url(../img/lirical-jazz.jpg);
+}
+.ad {
+	background-image: url(../img/arabe.jpg);
+}
+.kl {
+	background-image: url(../img/little.jpg);
+}
+.yd {
+	background-image: url(../img/yoga.jpg);
+}

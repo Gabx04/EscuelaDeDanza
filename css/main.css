@@ -1,0 +1,82 @@
+/*Inscribete*/
+.inscribete {
+	background-image: url(../img/dance_1.jpg);
+	background-size: 100%;
+}
+.presentacion {
+	width: 20%;
+}
+.titular {
+	font-size: 60px;
+	color: #C3C6C5;
+	font-weight: bold;
+	margin-bottom: 40px;
+}
+.inscribete button {
+	background-color: #030F1C;
+	padding: 5% 15%;
+}
+.inscribete p {
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+/*Oferta de clases*/
+.oferta {
+	background: url(../img/textura_2.jpg) repeat;
+	padding: 5%;
+}
+.oferta div {
+	width: 80%;
+	margin: auto;
+}
+.decoracion1 {
+	width: 15%;
+}
+.oferta button {
+	margin: auto;
+	display: block;
+	font-size: 14px;
+}
+/*Ver instructores*/
+.inst1, .inst2 {
+	border: 1px solid #192951;
+	border-left: none;
+	background-size: 100%;
+	height: 310px;
+	background-position: top;
+}
+.inst1 {
+	background-image: url(../img/instructor_4.jpg);
+}
+.inst2 {
+	background-image: url(../img/profesor_9.jpg);
+	background-size: 100%;
+	position: relative;
+	top: 0;
+}
+.verinstructores button {
+	margin-top: 0;
+	margin-right: ;
+	font-size: 20px;
+}
+/*Frase 1*/
+.frase1 {
+	background: url(../img/textura_2.jpg) repeat;
+	padding: 5%;
+}
+
+/*Visítanos*/
+.visitanos {
+	background-color: #192951;
+	padding: 5%;
+}
+.visitanos .col-6 {
+	margin: 0 ;
+}
+.visitanos .datosvisit {
+	padding: 0 20% 5% 0; 
+}
+.visitanos p {
+	margin-bottom: 10%;
+}
+

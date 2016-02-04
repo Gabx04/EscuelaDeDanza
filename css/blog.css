@@ -1,0 +1,45 @@
+.blog .row:first-child {
+	padding: 40px;
+}
+.entrada{
+	padding: 20px 0;
+	display: flex;
+	overflow: hidden;
+}
+.articulo {
+	background-color: #cccccc;
+	margin: 0;
+	padding: 30px 30px 10px;
+}
+.farticulo {
+	background-size: 100%;
+	padding-right: 0;
+}
+.primera {
+	background-image: url(../img/blog1.jpg);
+}
+.segunda {
+	background-image: url(../img/profesor_5.jpg);
+}
+.tercera {
+	background-image: url(../img/instructor_1.jpg);
+}
+.t-articulo {
+	font-size: 13px;
+	font-weight: bold;
+}
+.date {
+	font-size: 14px;
+	font-style: italic;
+	color: #bec0c0;
+}
+.nota {
+	font-size: 14px;
+	padding: 5px 0;
+}
+.blog button {
+	padding: 1% 10%;
+	border-radius: 6%;
+	font-size: 14px;
+	margin: 15px 0 5px;
+}
